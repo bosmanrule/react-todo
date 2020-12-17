@@ -1,6 +1,6 @@
 {
   "name": "todo",
-  "author":"bosman",
+  "author": "bosman",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
